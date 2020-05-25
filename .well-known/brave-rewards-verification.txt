@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kozycreative.com
+Token: f319daf7a9728536be6d689db628c94d30f5e0839e3efd9d8ded8c29bb2f4dd1
