@@ -91,6 +91,12 @@ h6 {
 	margin-bottom: 50px;
 }
 
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
 .block-title__bubbles {
 	position: relative;
 	display: block;
