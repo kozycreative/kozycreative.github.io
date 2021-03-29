@@ -101,6 +101,14 @@ h6 {
 	padding: 20px; /* Some padding */
 }
 
+.container-text .content-black {
+	position: absolute; /* Position the background text */
+	bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+	color: #000000; /* Grey text */
+	width: 100%; /* Full width */
+	padding: 20px; /* Some padding */
+}
+
 .block-title {
 	margin-bottom: 50px;
 }
