@@ -4,6 +4,7 @@
     }
     .main-nav__main-navigation {
         display: none;
+        float:left
     }
     .main-nav__logo-box {
         padding-top: 20px;
