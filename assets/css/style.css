@@ -95,7 +95,7 @@ h6 {
   
 .container-text .content {
 	position: absolute; /* Position the background text */
-	bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+	top: 0; /* At the bottom. Use top:0 to append it to the top */
 	color: #f1f1f1; /* Grey text */
 	width: 100%; /* Full width */
 	padding: 20px; /* Some padding */
@@ -103,7 +103,7 @@ h6 {
 
 .container-text .contentblack {
 	position: absolute; /* Position the background text */
-	bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+	top: 0; /* At the bottom. Use top:0 to append it to the top */
 	color: #000000; /* Grey text */
 	width: 100%; /* Full width */
 	padding: 20px; /* Some padding */
