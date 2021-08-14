@@ -25,6 +25,7 @@
     .banner-one__content p br,
     .banner-one__content h3 br {
         display: none;
+        color: black;
     }
     .cta-three__moc {
         left: -20%;
