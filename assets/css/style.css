@@ -719,7 +719,7 @@ h6 {
 .main-nav__main-navigation .main-nav__navigation-box>li ul {
 	position: absolute;
 	width: 230px;
-	background-color: #fff;
+	background-color: white;
 	border-top: 2px solid var(--thm-black);
 	box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.05), -2px 0px 5px 1px rgba(0, 0, 0, 0.05);
 	-webkit-transform-origin: top;
